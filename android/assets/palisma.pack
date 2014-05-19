@@ -1,0 +1,96 @@
+
+palisma.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mountain_left
+  rotate: false
+  xy: 1, 782
+  size: 1000, 225
+  orig: 1000, 225
+  offset: 0, 0
+  index: -1
+mountain_right
+  rotate: false
+  xy: 1, 555
+  size: 1000, 225
+  orig: 1000, 225
+  offset: 0, 0
+  index: -1
+rock_middle
+  rotate: false
+  xy: 1, 197
+  size: 86, 356
+  orig: 86, 356
+  offset: 0, 0
+  index: -1
+rock_edge
+  rotate: false
+  xy: 89, 197
+  size: 63, 356
+  orig: 63, 356
+  offset: 0, 0
+  index: -1
+cloud02
+  rotate: false
+  xy: 154, 465
+  size: 198, 88
+  orig: 198, 88
+  offset: 0, 0
+  index: -1
+cloud03
+  rotate: false
+  xy: 154, 378
+  size: 182, 85
+  orig: 182, 85
+  offset: 0, 0
+  index: -1
+cloud01
+  rotate: false
+  xy: 354, 475
+  size: 178, 78
+  orig: 178, 78
+  offset: 0, 0
+  index: -1
+water_overlay
+  rotate: false
+  xy: 1, 35
+  size: 32, 160
+  orig: 32, 160
+  offset: 0, 0
+  index: -1
+indian_hero
+  rotate: false
+  xy: 154, 310
+  size: 63, 66
+  orig: 63, 66
+  offset: 0, 0
+  index: -1
+droplet
+  rotate: false
+  xy: 534, 489
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+hero
+  rotate: false
+  xy: 35, 130
+  size: 42, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: -1
+disk
+  rotate: false
+  xy: 1, 1
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 154, 282
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
